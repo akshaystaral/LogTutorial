@@ -1,0 +1,6 @@
+10:29:47.818 [main] ERROR alpha.DemoLog - Object is not present
+10:29:47.821 [main] FATAL alpha.DemoLog - This is fatal
+10:32:11.211 [main] DEBUG alpha.DemoLog - System Debug
+10:32:11.296 [main] INFO  alpha.DemoLog - Object is Present
+10:32:11.296 [main] ERROR alpha.DemoLog - Object is not present
+10:32:11.296 [main] FATAL alpha.DemoLog - This is fatal
